@@ -5,13 +5,16 @@ Group No: 500
 Project Name: Home Design Software
 
 Team Members:
-MAYANK PRAKASH                          					      140040087
+MAYANK PRAKASH                          					      	140040087
 PRAVEEN KANWAT                            						140040004
 ANIRUDDH SHETTY                         						140070004
-ANIMESH SRIVASTAVA                     						140040017
+ANIMESH SRIVASTAVA                     							140040017
 
 Setup:
 1) Install Netbeans on the laptop. The link is as given below.
+	https://youtu.be/fq-pMi3Tqao
+	https://youtu.be/yWgRc9ym8NI
+	
 Go to netbeans.org—>download the latest version—>follow the  installation steps. 
 2) Install CodeBlocks on the laptop/PC.
 3) Setup the openGL libraries in laptop.
